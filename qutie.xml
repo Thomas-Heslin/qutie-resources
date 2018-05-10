@@ -1,0 +1,7 @@
+<Response>
+  <Say voice="alice">Hi Adrian. How was your day? The next episode of your favourite show Westworld is tonight.
+  Last week on Westworld, Charlotte and Bernard track down the decommissioned Peter Abernathy only to be caught by the Confederados and separated.
+  Dolores, who has secured support from the Confederados' leader Major Craddock, discovers that Peter is malfunctioning and orders Bernard to find the problem.
+  </Say>
+  <Play>http://demo.twilio.com/docs/classic.mp3</Play>
+</Response>
